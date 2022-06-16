@@ -2,6 +2,9 @@ In our project we are taking the schedule of the day from the user and display t
 
 
 
+This immage shows the Web application deployed on AZURE Web app ,This web application is developed through python's Flask Framework and HTML is used for web page designing.
+
+here we had used sql to store the data .
 
 ![image](https://user-images.githubusercontent.com/105772802/174092558-9ca8c8a1-67f4-4d61-a2b5-b01cb5f78bde.png)
 
