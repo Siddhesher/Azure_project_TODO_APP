@@ -1,45 +1,28 @@
-Simple Flask Todo App using SQLAlchemy and SQLite database.
+In our project we are taking the schedule of the day from the user and display their work on website.
 
-For styling [semantic-ui](https://semantic-ui.com/) is used.
 
-### Setup
-Create project with virtual environment
 
-```console
-$ mkdir myproject
-$ cd myproject
-$ python3 -m venv venv
-```
 
-Activate it
-```console
-$ . venv/bin/activate
-```
+![image](https://user-images.githubusercontent.com/105772802/174092558-9ca8c8a1-67f4-4d61-a2b5-b01cb5f78bde.png)
 
-or on Windows
-```console
-venv\Scripts\activate
-```
 
-Install Flask
-```console
-$ pip install Flask
-$ pip install Flask-SQLAlchemy
-```
 
-Set environment variables in terminal
-```console
-$ export FLASK_APP=app.py
-$ export FLASK_ENV=development
-```
 
-or on Windows
-```console
-$ set FLASK_APP=app.py
-$ set FLASK_ENV=development
-```
+![image](https://user-images.githubusercontent.com/105772802/174093630-7a48b0ba-79a3-4438-845b-6a369cf6a4fc.png)
 
-Run the app
-```console
-$ flask run
-```
+
+
+
+
+![image](https://user-images.githubusercontent.com/105772802/174093793-10a53853-df2e-4cb1-9aa6-df53d6de34e7.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/105772802/174093857-40eee11f-dd0a-44bb-8ff6-337ce35cfd64.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/105772802/174093903-9707ea82-27d3-45fe-8691-82b5d4560a3c.png)
